@@ -1,4 +1,8 @@
-### Hi there 👋
+# I am Luke Davis
+## I like playing video games, working on electronics, and working on my car.
+## Favorite quote:
+### Kanye West - 
+> You basically can say anything to someone on an email or text as long as you put LOL at the end.
 
 <!--
 **LukeBGC/LukeBGC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
